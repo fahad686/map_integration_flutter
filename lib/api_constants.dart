@@ -1,3 +1,3 @@
 class APIConstants{
-  static const googleCloudConsoleAPIKey='AIzaSyBoEGzu2mPVSIPj9AUSxbU12vhCIMw4fM0';
+  static const googleCloudConsoleAPIKey='Your Api Key';
 }
